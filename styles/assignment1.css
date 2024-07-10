@@ -1,3 +1,8 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
 .azeret-mono-normal {
     font-family: "Azeret Mono", monospace;
     font-optical-sizing: auto;
@@ -173,6 +178,7 @@ nav{
     margin: 0 auto;
     border-radius: 16px;
 
+
     
     
 }
@@ -182,11 +188,14 @@ nav{
     font-weight: bold;
     text-align: center;
     padding-top: 120px;
+    padding-bottom: 16px;
+    
 }
 .s-description{
     color: #ffffff;
     font-size: 16px;
     text-align: center;
+    padding-bottom: 24px;
 
 }
 .ii{
@@ -233,4 +242,9 @@ nav{
 .ft{
     padding-right: 150px;
 }
+.ii::placeholder{
+    font-size: 16px;
+    padding: 19px 215px 19px 20px;
+}
+
 
