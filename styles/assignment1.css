@@ -128,5 +128,87 @@ nav{
     margin: 0 auto;
     width: 1140px;
     height: 614px;
+    margin bottom: 150px;
+}
+.card1{
+    height: 250px;
+    width: 364px;
+    background-color: #fff6f3;
+    border-radius: 16px;
+    padding: 40px;
+    margin-right: 24px;
+
+}
+.l{
+    font-size: 16px;
+    font-weight: bold;
+    color: #0D1321;
+
+}
+.current{
+    margin: 150px;
+    display: flex;
+
+}
+.card2{
+    height: 250px;
+    width: 364px;
+    background-color: #f2f6fe;
+    border-radius: 16px;
+    padding: 40px;
+    margin-right: 24px;
+}
+.card3{
+    height: 250px;
+    width: 364px;
+    background-color: #faeeae;
+    border-radius: 16px;
+    padding: 40px;
+}
+.end{
+    background-image: url(../assets/handshake.jpg);
+    background-position: center;
+    height: 460px;
+    width: 1140px;
+    margin: 0 auto;
+    border-radius: 16px;
+    background-color: rgba(0, 0, 0, 0.8);
+    
+}
+.support{
+    color: #ffffff;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 120px;
+}
+.s-description{
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+
+}
+.ii{
+    height: 57px;
+    width: 548px;
+    border-radius: 8px;
+    border-style: none;
+}
+.ss{
+    height: 47px;
+    width: 171px;
+    background-color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 600px;
+    color: #0D1321;
+    padding: 12px 20px;
+    height: 57px;
+    width: 120px;
+    border-radius: 8px;
+    border-style: none;
+
+}
+.input{
+    text-align: center;
 }
 
