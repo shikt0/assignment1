@@ -68,5 +68,60 @@ nav{
 .banner-content{
     text-align: center;
 }
+.title{
+    font-size: 32px;
+    font-weight: bolder;
+    text-align: center;
+    margin-top: 80px;
+    padding-top: 80px;
+    
+    
+}
+
+.why-web{
+    background-color: #fafafb;
+    max-width: 1140px;
+    margin: 90px auto;
+}
+
+.why{
+    margin: 80px 97px;
+}
+.t-description{ 
+    text-align: center;
+    margin-bottom: 48px;
+}
+.sub{
+    font-size: 24px;
+    font-weight: bold;
+
+}
+.b{
+    background-color: #FFFFFF;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 32px;
+}
+
+.image{
+    width: 274.17px;
+}
+.btn1{
+    height: 47px;
+    width: 171px;
+    background-color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 600px;
+    color: #0D1321;
+    padding: 12px 20px;
+    height: 47px;
+    width: 171px;
+
+}
+.b-content{
+    padding-left: 48px;
+    padding-right: 98.37px;
+    padding-bottom: 58.5px;
+}
 
 
