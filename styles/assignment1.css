@@ -82,6 +82,7 @@ nav{
     background-color: #fafafb;
     max-width: 1140px;
     margin: 90px auto;
+    padding-bottom: 35px;
 }
 
 .why{
@@ -123,5 +124,9 @@ nav{
     padding-right: 98.37px;
     padding-bottom: 58.5px;
 }
-
+.v{
+    margin: 0 auto;
+    width: 1140px;
+    height: 614px;
+}
 
